@@ -14,3 +14,4 @@ void Main(array<String^>^ args)
 	AceDateCalc::MainUI form;
 	Application::Run(%form);
 }
+
